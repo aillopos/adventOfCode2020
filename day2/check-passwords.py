@@ -18,7 +18,6 @@ for i, val in enumerate(data):
     regex = '[{}]'.format(result[3])
     p = re.compile(regex)
     occurrence = p.findall(result[4])
-    # print(occurrence)
     ll = len(occurrence)
     if int(result[1]) <= ll <= int(result[2]):
         validNo += 1
