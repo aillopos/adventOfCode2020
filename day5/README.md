@@ -55,7 +55,7 @@ As a sanity check, look through your list of boarding passes. ***What is the hig
 
 `906`.
 
-<span style="color:yellow">The first half of this puzzle is complete! It provides one gold star: *</span>
+<span style="color:gold">The first half of this puzzle is complete! It provides one gold star: *</span>
 
 ## Part Two
 
@@ -71,4 +71,4 @@ Your seat wasn't at the very front or back, though; the seats with IDs `+1` and 
 
 `519`
 
-That's the right answer! You are <span style="color:yellow">one gold star</span> closer to saving your vacation.
+That's the right answer! You are <span style="color:gold">one gold star</span> closer to saving your vacation.

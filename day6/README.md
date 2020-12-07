@@ -56,7 +56,7 @@ For each group, count the number of questions to which anyone answered "yes".
 
 Your puzzle answer was `6297`.
 
-<span style="color:yellow">The first half of this puzzle is complete! It provides one gold star: *</span>
+<span style="color:gold">The first half of this puzzle is complete! It provides one gold star: *</span>
 
 ## Part Two
 As you finish the last group's customs declaration, you notice that you misread one word in the instructions:
@@ -97,4 +97,4 @@ For each group, count the number of questions to which everyone answered "yes".
 
 `3158`
 
-That's the right answer! You are <span style="color:yellow">one gold star</span> closer to saving your vacation.
+That's the right answer! You are <span style="color:gold">one gold star</span> closer to saving your vacation.
