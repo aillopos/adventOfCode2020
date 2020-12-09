@@ -123,5 +123,7 @@ Fix the program so that it terminates normally by changing exactly one `jmp` (to
 
 `846`
 
+That's the right answer! You are <span style="color:gold">one gold star</span> closer to saving your vacation.
+
 
 

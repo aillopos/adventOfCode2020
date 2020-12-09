@@ -78,3 +78,5 @@ In this example, a single shiny gold bag must contain `126` other bags.
 ***How many individual bags are required inside your single shiny gold bag?***
 
 `1664`
+
+That's the right answer! You are <span style="color:gold">one gold star</span> closer to saving your vacation.
